@@ -330,6 +330,8 @@ http://api3.52tb.xyz/info?id=163&token=20230314wxykzb
 http://api3.52tb.xyz/info?id=164&token=20230314wxykzb
 #EXTINF:-1 tvg-name="咪咕4K(2)" tvg-logo="0" group-title="4K频道",咪咕4K(2)
 http://api3.52tb.xyz/info?id=165&token=20230314wxykzb
+#EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="" group-title="4K频道",斗鱼4K电影
+http://api3.52tb.xyz/info?id=1037&token=20230314wxykzb
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://152.136.244.145/fh/fenghuangzhongwen.png" group-title="凤凰",凤凰中文
 http://api3.52tb.xyz/info?id=166&token=20230314wxykzb
 #EXTINF:-1 tvg-name="凤凰中文（备）" tvg-logo="http://152.136.244.145/fh/fenghuangzhongwen.png" group-title="凤凰",凤凰中文（备）
